@@ -1,0 +1,9 @@
+name: SoulSignatures
+version: '1.0.0'
+main: org.flennn.SoulSignatures
+api-version: '1.21'
+commands:
+  givespecial:
+    usage: "/givespecial <item>"
+    description: Gives a special soul signature item.
+    permission: soulsignatures.give
